@@ -1,1 +1,2 @@
+# AMATH 582 Final Project
 This final report builds a music recommendation system based on user behaviors and song features from the KKBox dataset provided in Kaggle. We build several models to predict the chances of a user listening to a song repetitively after the first observable listening event within a time window, providing a binary prediction such as Logistic Regression, Support Vector Machine(SVM), Random Forest, and boosting methods. After careful hyper-parameter tuning, we are able to achieve the AUC score of 0.858.
